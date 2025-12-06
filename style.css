@@ -54,4 +54,12 @@ textarea {
 
 .hero_section {
   text-align: center;
+  background: #f0e3ca;
+  padding: 40px;
+  border-radius: 8px;
+}
+
+.hero_section h2 {
+  margin: 0;
+  font-size: 24px;
 }
