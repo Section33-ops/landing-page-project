@@ -17,12 +17,19 @@ section {
   border-radius: 8px;
 }
 
-.form_section {
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  max-width: 400px;
+}
+
+/* .form_section {
   display: flex;
   flex-direction: column;
   margin-bottom: 15px;
   gap: 100px;
-}
+} */
 
 textarea {
   resize: vertical;
